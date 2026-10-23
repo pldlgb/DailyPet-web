@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792748159|3907819';
+const CACHE_VERSION = '1792749529|3658275';
 /** @type {string} */
 const CACHE_PREFIX = '喵汪小食堂-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
